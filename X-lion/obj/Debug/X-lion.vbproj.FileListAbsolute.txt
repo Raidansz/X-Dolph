@@ -1,0 +1,38 @@
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X_lion.Form1.resources
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X_lion.Resources.resources
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X-lion.vbproj.GenerateResource.Cache
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X_lion.AboutBox1.resources
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X_lion.Form2.resources
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\bin\Debug\X-Dolph.exe.manifest
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\bin\Debug\X-Dolph.application
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\bin\Debug\X-Dolph.exe
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\bin\Debug\X-Dolph.pdb
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\bin\Debug\X-Dolph.xml
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X-Dolph.exe.manifest
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X-Dolph.application
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X-Dolph.exe
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X-Dolph.xml
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X-Dolph.pdb
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X_lion.Form3.resources
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X_lion.Form4.resources
+C:\Users\city tech\Documents\Visual Studio 2008\Projects\X-lion\X-lion\bin\Debug\dll.dll
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X-lion.vbproj.AssemblyReference.cache
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X_lion.AboutBox1.resources
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X_lion.Form1.resources
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X_lion.Form2.resources
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X_lion.Form3.resources
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X_lion.Form4.resources
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X_lion.Resources.resources
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X-lion.vbproj.GenerateResource.cache
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X-lion.vbproj.CoreCompileInputs.cache
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X-Dolph.exe
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X-Dolph.xml
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X-Dolph.pdb
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\bin\Debug\X-Dolph.exe.manifest
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\bin\Debug\X-Dolph.application
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\bin\Debug\X-Dolph.exe
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\bin\Debug\X-Dolph.pdb
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\bin\Debug\X-Dolph.xml
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X-Dolph.exe.manifest
+H:\القرص ال F\Visual Studio 2008\Projects\X-lion\X-lion\obj\Debug\X-Dolph.application
