@@ -11,4 +11,4 @@ WHY DID I DEVELOPED THIS APP?
 In 2015, I was learning Visual Basic so I thought that it would be cool, if I create a project to apply what I was learning, but things changed and I felt that I am not into this programming language anymore.
 
 
-Feel free to whatever you want with it.
+Feel free to do whatever you want with it.
